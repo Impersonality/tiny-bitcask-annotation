@@ -1,0 +1,1 @@
+1.demo分支 entry.go L57 复制entry的key/value值时使用len(key)而不是keySize，是否不规范？
